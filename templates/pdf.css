@@ -1,0 +1,20 @@
+body {
+  background-color: #fff;
+}
+
+.container {
+   top: 100px;
+   position: relative;
+   padding: 20px;
+   background-color: #b69ad8;
+   border-radius: 5px;
+   width: 400px; /* Add this line to set a fixed width */
+   margin: 0 auto; /* Optional: center the container */
+}
+ .navbar {
+   margin-bottom: 20px;
+ }
+
+ .form-control-file {
+   margin-top: 10px;
+ }
